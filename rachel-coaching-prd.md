@@ -16,7 +16,6 @@
 Rachel is launching an intuitive leadership coaching business targeting mid-level to senior executives. She combines traditional leadership coaching with intuitive insights, drawing from her extensive corporate background and certified coaching credentials. Her unique approach balances professional credibility with transformational coaching methods.
 
 **Key Business Details:**
-- **Target Revenue**: $30k year 1, scaling to $2M by year 5
 - **Services**: 12-week coaching programs ($3,000-$7,500), B2B consulting, future membership community
 - **Unique Value**: Combines corporate experience with intuitive coaching methodologies
 - **Launch Goals**: TEDx talk September 2025, 5 paying clients year 1
